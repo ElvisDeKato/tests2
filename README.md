@@ -5,4 +5,4 @@
 1. viens
 2. divi
 3. trīs
- ** teksts slīprakstā **
+ 	**teksts slīprakstā**
